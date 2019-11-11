@@ -5,6 +5,7 @@ This is also a work in process.
 How to use:
 
 1.The image must be a BMP file and rename the image file to Output.bmp
+
 2.The image must be with the same directory as the .py file
 
 Requirment:
